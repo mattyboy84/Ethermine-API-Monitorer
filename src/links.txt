@@ -1,0 +1,17 @@
+Pool:
+	https://api.ethermine.org/poolstats
+	https://api.ethermine.org/blocks/history
+	https://api.ethermine.org/networkstats
+Miner:
+	https://api.ethermine.org/miner/:0x426cc32371ef10e8052ccf69c5fbdd6dfac0a474/dashboard
+	https://api.ethermine.org/miner/:0x426cc32371ef10e8052ccf69c5fbdd6dfac0a474/history
+	https://api.ethermine.org/miner/:0x426cc32371ef10e8052ccf69c5fbdd6dfac0a474/payouts
+	https://api.ethermine.org/miner/:0x426cc32371ef10e8052ccf69c5fbdd6dfac0a474/rounds
+	https://api.ethermine.org/miner/:0x426cc32371ef10e8052ccf69c5fbdd6dfac0a474/currentstats
+Worker:
+	https://api.ethermine.org/miner/:0x426cc32371ef10e8052ccf69c5fbdd6dfac0a474/workers
+	https://api.ethermine.org/miner/:0x426cc32371ef10e8052ccf69c5fbdd6dfac0a474/worker/coolawesomerig/history
+	https://api.ethermine.org/miner/:0x426cc32371ef10e8052ccf69c5fbdd6dfac0a474/worker/coolawesomerig/currentstats
+	
+	
+	
